@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "room_name": "Villa Puncak 6 rooms, Swimming pool",
+        "description": "Experience a new kind of vacation at Sanata Villa. Surrounded by nature, our modern villas are built with comfort and convenience to ensure that your stay will be relaxing and enjoyable. From spacious bedrooms to private gardens, you’ll enjoy a peaceful getaway with your loved ones. Our villa has a fast internet connection, so you can stay connected with your friends and family. The swimming pool is also right outside the kitchen and living room area, so you can enjoy a relaxing break by the pool",
+        "address": "Bogor, Indonesia",
+        "rating": 4.5,
+        "available": "Apr 10 - 15",
+        "price": 2500000,
+        "room_picture": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/c787bd29-4af1-4a4a-971f-a0df8cadaee7-1615563884519-157817001f6a78b890369fcbb737fc07.jpg"
+    },
+    {
+        "id": 2,
+        "user_id": 2,
+        "room_name": "Entire cottage hosted by Hellen",
+        "description": "It is a luxury Bali resort style villa located close to Bogor Taman Safari. private garden with private swimming pool can be used independently. It is a beautiful green and stylish Bali resort concept in the Bogor region. I picked up one piece of each, and imagined the time of your complete rest. I hope you have a wonderful break at Art Hill Villa. Thank you",
+        "address": "Bogor, Indonesia",
+        "rating": 3.9,
+        "available": "Apr 20 - 29",
+        "price": 1700000,
+        "room_picture": "https://www.amesbostonhotel.com/wp-content/uploads/2021/09/Rekomendasi-Penginapan-Villa-di-Bogor.jpg"
+    },
+    {
+        "id": 3,
+        "user_id": 1,
+        "room_name": "Villa Puncak 6 rooms, Swimming pool",
+        "description": "Experience a new kind of vacation at Sanata Villa. Surrounded by nature, our modern villas are built with comfort and convenience to ensure that your stay will be relaxing and enjoyable. From spacious bedrooms to private gardens, you’ll enjoy a peaceful getaway with your loved ones. Our villa has a fast internet connection, so you can stay connected with your friends and family. The swimming pool is also right outside the kitchen and living room area, so you can enjoy a relaxing break by the pool",
+        "address": "Bogor, Indonesia",
+        "rating": 4.5,
+        "available": "Apr 10 - 15",
+        "price": 2500000,
+        "room_picture": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/c787bd29-4af1-4a4a-971f-a0df8cadaee7-1615563884519-157817001f6a78b890369fcbb737fc07.jpg"
+    },
+    {
+        "id": 4,
+        "user_id": 1,
+        "room_name": "Villa Puncak 6 rooms, Swimming pool",
+        "description": "Experience a new kind of vacation at Sanata Villa. Surrounded by nature, our modern villas are built with comfort and convenience to ensure that your stay will be relaxing and enjoyable. From spacious bedrooms to private gardens, you’ll enjoy a peaceful getaway with your loved ones. Our villa has a fast internet connection, so you can stay connected with your friends and family. The swimming pool is also right outside the kitchen and living room area, so you can enjoy a relaxing break by the pool",
+        "address": "Bogor, Indonesia",
+        "rating": 0,
+        "available": "Apr 10 - 15",
+        "price": 2500000,
+        "room_picture": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/c787bd29-4af1-4a4a-971f-a0df8cadaee7-1615563884519-157817001f6a78b890369fcbb737fc07.jpg"
+    },
+    {
+        "id": 5,
+        "user_id": 1,
+        "room_name": "Villa Puncak 6 rooms, Swimming pool",
+        "description": "Experience a new kind of vacation at Sanata Villa. Surrounded by nature, our modern villas are built with comfort and convenience to ensure that your stay will be relaxing and enjoyable. From spacious bedrooms to private gardens, you’ll enjoy a peaceful getaway with your loved ones. Our villa has a fast internet connection, so you can stay connected with your friends and family. The swimming pool is also right outside the kitchen and living room area, so you can enjoy a relaxing break by the pool",
+        "address": "Bogor, Indonesia",
+        "rating": 0,
+        "available": "Apr 10 - 15",
+        "price": 2500000,
+        "room_picture": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/c787bd29-4af1-4a4a-971f-a0df8cadaee7-1615563884519-157817001f6a78b890369fcbb737fc07.jpg"
+    }
+]
