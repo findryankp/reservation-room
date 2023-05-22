@@ -1,4 +1,4 @@
-# reservation-room (Air Bnb Clone)
+# Reservation Room (Air Bnb Clone)
 
 ## 💫 About
 Similiar to airbnb. User can be a host to make their own homestay and user can book the host homestay.
