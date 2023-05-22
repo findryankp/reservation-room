@@ -1,4 +1,4 @@
-## 📑 About the Project
+## 💫 About
 <p align="justify">Similiar to airbnb. User can be a host to make their own homestay and user can book the host homestay.<br>
   <br>
 This RESTful API was developed by using Golang and written based on Clean Architecture principles. Built with Echo as web framework, GORM as ORM, MySQL as DBMS, etc.
@@ -84,45 +84,25 @@ Simply [click here](https://app.swaggerhub.com/apis-docs/ALIFMUHAMADHAFIDZ23/Air
 
   </details>
     
- 
-
-# 🛠️ How to Run Locally
-
-- Clone it
-
-```
-$ git clone https://github.com/TIMESYNC-Project/GroupProject3-Airbnb-Api
+ ## 👨🏽‍💻 Clone Repo
+```shell
+git clone https://github.com/TIMESYNC-Project/GroupProject3-Airbnb-Api
 ```
 
-- Go to directory
-
-```
-$ cd GroupProject3-Airbnb-Api
-```
-- Run the project
-```
-$ go run .
+## 🎯 Run Project
+```shell
+go run .
 ```
 
-- Voila! 🪄
-
+## 🚀 Tech Stack
 ### 🧰Backend
-
 - [Github Repository for the Backend team](https://github.com/Alta-Project3/GroupProject3-Airbnb-Api)
 - [Swagger OpenAPI](https://app.swaggerhub.com/apis-docs/ALIFMUHAMADHAFIDZ23/Air-BNB/1.0.0)
 
 ### 🧰Frontend
-
 - [Github Repository for the Frontend team](https://github.com/Alta-Project3/GroupProject3-Airbnb-App)
 - [Figma](https://www.figma.com/file/zdRtmaAmCsmLGG2b4IioRP/Group-Project-3-Air-Bnb?node-id=0-1&t=PdQQ8RY7Zp6CBCGU-0)
 
-# 🤖 Author
-
+# 😎 Author
 -  Findryan Kurnia Pradana  <br>  [![GitHub](https://img.shields.io/badge/Findryan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Findryankp)
 -  Alif Muhamad Hafidz <br>  [![GitHub](https://img.shields.io/badge/Alif-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlifMuhamadHafidz)
-
-
-
-<h5>
-<p align="center">Built with ❤️ by Group 2 ©️ 2023</p>
-</h5>
